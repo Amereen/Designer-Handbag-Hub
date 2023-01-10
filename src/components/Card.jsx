@@ -11,6 +11,11 @@ const Card = ({ name, price, imageUrl, description, handleClick, addBtn }) => {
         <img src={imageUrl} alt="Bag" className="card-img" />
       </div>
       <p className="card-desc">{description}</p>
+      <div className="card-btn-container">
+        <button className="card-btn" onClick={handleClick}>
+          {addBtn ? <>Add to collection</> : <>Remove from Collection</>}
+        </button>
+      </div>
     </div>
   );
 };
