@@ -1,0 +1,109 @@
+{
+  "bags": [
+    {
+      "id": "1",
+      "name": "Half-moon-shaped",
+      "image": "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_980x980/1664988338/726843_92TCG_8563_001_100_0000_Light-Half-moon-shaped-mini-bag-with-Interlocking-G.jpg",
+      "price": 1250,
+      "description": " A crescent silhouette in GG Supreme canvas, this mini bag has a defined retro feel."
+    },
+    {
+      "id": "2",
+      "name": "GG half-moon-shaped ",
+      "image": "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_980x980/1670577304/726843_FAA4G_9897_001_066_0000_Light-GG-half-moon-shaped-mini-bag.jpg",
+      "price": 1250,
+      "description": "An instantly recognizable retro shape is reimagined through House codes."
+    },
+    {
+      "id": "3",
+      "name": "Gucci Bamboo 1947",
+      "image": "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_980x980/1663605004/724641_AABCE_9057_001_056_0000_Light-Gucci-Bamboo-1947-mini-top-handle-bag.jpg",
+      "price": 4200,
+      "description": "The Gucci Bamboo 1947 top handle bag's recognizable shape in white patent leather."
+    },
+    {
+      "id": "4",
+      "name": "Jackie 1961",
+      "image": "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_980x980/1656692103/699651_1J7CG_8162_001_071_0000_Light-Jackie-1961-mini-shoulder-bag.jpg",
+      "price": 4200,
+      "description": " Characterized by a shiny finish that captures the light."
+    },
+    {
+      "id": "5",
+      "name": "Online Exclusive Ophidia",
+      "image": "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_980x980/1669400217/724606_FAA5I_8581_001_070_0000_Light-Online-Exclusive-Ophidia-Flora-mini-bag.jpg",
+      "price": 2250,
+      "description": "The historical Flora motif from the 1960s was designed by artist Vittorio Accornero."
+    },
+    {
+      "id": "6",
+      "name": "Gucci Horsebit 1955",
+      "image": "https://media.gucci.com/style/HEXE8F1E3_Center_0_0_980x980/1671528669/658574_FABFG_8360_001_077_0000_Light-Gucci-Horsebit-1955-ostrich-mini-bag.jpg",
+      "price": 6700,
+      "description": " This Gucci Horsebit 1955 bag appears in tweed and leather with stud detailing."
+    },
+    {
+      "id": "7",
+      "name": "NANO SPEEDY",
+      "image": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nano-speedy-bicolor-monogram-empreinte-leather-small-leather-goods--M81457_PM2_Front%20view.png?wid=1240&hei=1240",
+      "price": 203000,
+      "description": " The Nano Speedy, a miniature replica of Louis Vuittons"
+    },
+    {
+      "id": "8",
+      "name": "CLUNY MINI",
+      "image": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cluny-mini-epi-leather-handbags--M58931_PM2_Front%20view.png?wid=1240&hei=1240",
+      "price": 272000,
+      "description": "This exclusive Cluny Mini handbag features a reversible jacquard strap."
+    },
+    {
+      "id": "9",
+      "name": "LOOP",
+      "image": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-loop-monogram-handbags--M81098_PM2_Front%20view.png?wid=1240&hei=1240",
+      "price": 237000,
+      "description": "Created by Nicolas Ghesquière for the Cruise 2022 Collection."
+    },
+    {
+      "id": "10",
+      "name": "MEDIUM LADY D-LITE BAG ",
+      "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/j/i/1666976965_M0565ORVX_M933_E01_ZHC.jpg?imwidth=870",
+      "price": 47000,
+      "description": "The Lady D-Lite bag combines classic elegance with House modernity."
+    },
+    {
+      "id": "11",
+      "name": "SADDLE BAG WITH STRAP",
+      "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/a/p/1668095119_M0455CBAA_M14Z_E01_GHC.jpg?imwidth=800",
+      "price": 420000,
+      "description": "Maria Grazia Chiuri brings a fresh update to the iconic Saddle bag."
+    },
+    {
+      "id": "12",
+      "name": "MEDIUM DIOR BOOK TOTE",
+      "image": "https://api.platforme.com/api/compose?brand=dior&model=small_book_tote&version=384&p=base:embroidery:m1296zrzbm884&size=718&initials=&logic=1&initials_profile=style::m1296zrzbm884",
+      "price": 330000,
+      "description": "The Dior Book Tote is an original creation introduced by Maria Grazia Chiuri."
+    },
+    {
+      "id": "13",
+      "name": "Prada Triangle satin",
+      "image": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC190/2AWLF0T7O/1BC190_2AWL_F0T7O_V_YOO_SLF.jpg/jcr:content/renditions/cq5dam.web.hebebed.800.800.jpg",
+      "price": 3450,
+      "description": "A study on the triangle inspires new geometric shapes and unique interpretations."
+    },
+    {
+      "id": "14",
+      "name": "Shearling mini-bag",
+      "image": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC543/2EC9F0009/1BC543_2EC9_F0009_V_ZOO_SLF.jpg/jcr:content/renditions/cq5dam.web.hebebed.800.800.jpg",
+      "price": 3150,
+      "description": "The softness and fuzziness of shearling accentuate the modern."
+    },
+    {
+      "id": "15",
+      "name": "Leather Prada Triangle",
+      "image": "https://www.prada.com/content/dam/pradabkg_products/1/1NE/1NE039/2BYAF0002/1NE039_2BYA_F0002_SLF.jpg/jcr:content/renditions/cq5dam.web.hebebed.800.800.jpg",
+      "price": 1890,
+      "description": " The iconic shape is presented again in this sleek pouch."
+    }
+  ]
+}
