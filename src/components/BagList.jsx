@@ -19,3 +19,11 @@ const BagList = () => {
       });
   }, []);
 }
+const addItem = (id, name, price, description, image) => {
+  const item = {
+    id,
+    name,
+    price,
+    description,
+    image,
+  };
