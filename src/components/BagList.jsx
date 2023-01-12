@@ -39,7 +39,7 @@ const addItem = (id, name, price, description, image) => {
     return [...prvCollection, item];
   });
 };
-
+if (loading) return <div>Loading...</div>;
 
 
 
