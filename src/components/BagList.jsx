@@ -26,4 +26,28 @@ const addItem = (id, name, price, description, image) => {
     price,
     description,
     image,
-  };
+  }
+
+
+  setMyCollection((prvCollection) => {
+    for (const myItem of prvCollection) {
+      if (myItem.id === item.id) {
+        return prvCollection;
+      }
+    }
+
+    return [...prvCollection, item];
+  });
+};
+
+
+
+
+
+
+
+
+
+
+
+  }
