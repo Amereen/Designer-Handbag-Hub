@@ -1,4 +1,4 @@
-Designer Handbags App
+<!-- Designer Handbags App -->
 Overview
 This is a single-page application (SPA) built using React that allows consumers to stay up-to-date on trendy designer handbags. The app has three main routes:
 
