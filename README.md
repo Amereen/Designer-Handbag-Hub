@@ -26,6 +26,6 @@ Amereen Hanvel - GitHub Profile
 
 **Acknowledgments
 
-Inspiration for this app came from a desire to create a useful tool for consumers interested in keeping up with trendy designer handbags.
+Inspiration for this app came from a desire to create a useful app for consumers interested in keeping up with trendy designer handbags.
 
 
