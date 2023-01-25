@@ -10,6 +10,7 @@ const CollectionProvider = ({ children }) => {
       {children}
     </Collection.Provider>
   );
+
 };
 
 export default CollectionProvider;

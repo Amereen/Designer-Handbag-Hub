@@ -46,42 +46,42 @@
       "id": "7",
       "name": "NANO SPEEDY",
       "image": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nano-speedy-bicolor-monogram-empreinte-leather-small-leather-goods--M81457_PM2_Front%20view.png?wid=1240&hei=1240",
-      "price": 203000,
+      "price": 2030,
       "description": " The Nano Speedy, a miniature replica of Louis Vuittons"
     },
     {
       "id": "8",
       "name": "CLUNY MINI",
       "image": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cluny-mini-epi-leather-handbags--M58931_PM2_Front%20view.png?wid=1240&hei=1240",
-      "price": 272000,
+      "price": 2720,
       "description": "This exclusive Cluny Mini handbag features a reversible jacquard strap."
     },
     {
       "id": "9",
       "name": "LOOP",
       "image": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-loop-monogram-handbags--M81098_PM2_Front%20view.png?wid=1240&hei=1240",
-      "price": 237000,
+      "price": 2370,
       "description": "Created by Nicolas Ghesquière for the Cruise 2022 Collection."
     },
     {
       "id": "10",
       "name": "MEDIUM LADY D-LITE BAG ",
       "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/j/i/1666976965_M0565ORVX_M933_E01_ZHC.jpg?imwidth=870",
-      "price": 47000,
+      "price": 4700,
       "description": "The Lady D-Lite bag combines classic elegance with House modernity."
     },
     {
       "id": "11",
       "name": "SADDLE BAG WITH STRAP",
       "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/a/p/1668095119_M0455CBAA_M14Z_E01_GHC.jpg?imwidth=800",
-      "price": 420000,
+      "price": 4200,
       "description": "Maria Grazia Chiuri brings a fresh update to the iconic Saddle bag."
     },
     {
       "id": "12",
       "name": "MEDIUM DIOR BOOK TOTE",
       "image": "https://api.platforme.com/api/compose?brand=dior&model=small_book_tote&version=384&p=base:embroidery:m1296zrzbm884&size=718&initials=&logic=1&initials_profile=style::m1296zrzbm884",
-      "price": 330000,
+      "price": 3300,
       "description": "The Dior Book Tote is an original creation introduced by Maria Grazia Chiuri."
     },
     {
@@ -104,6 +104,34 @@
       "image": "https://www.prada.com/content/dam/pradabkg_products/1/1NE/1NE039/2BYAF0002/1NE039_2BYA_F0002_SLF.jpg/jcr:content/renditions/cq5dam.web.hebebed.800.800.jpg",
       "price": 1890,
       "description": " The iconic shape is presented again in this sleek pouch."
+    },
+    {
+      "name": "CHANEL 19 HANDBAG",
+      "price": 5700,
+      "image": "https://www.chanel.com/images//t_one///q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/chanel-19-handbag-light-orange-lambskin-gold-tone-silver-tone-ruthenium-finish-metal-lambskin-gold-tone-silver-tone-ruthenium-finish-metal-packshot-artistique-vue1-as1160b07327nl302-9516416663582.jpg",
+      "description": "Lambskin, Gold-Tone, Silver-Tone & Ruthenium-Finish Metal Light Orange",
+      "id": "jcREyhY"
+    },
+    {
+      "name": "bag",
+      "price": 5700,
+      "image": "https://www.chanel.com/images//t_one///e_brightness:-3/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/chanel-19-handbag-black-shiny-lambskin-gold-tone-silver-tone-ruthenium-finish-metal-shiny-lambskin-gold-tone-silver-tone-ruthenium-finish-metal-packshot-default-as1160b0485294305-8855281532958.jpg",
+      "description": "bag",
+      "id": "hTnsixM"
+    },
+    {
+      "name": "CHANEL 19 HANDBAG",
+      "price": 6700,
+      "image": "https://www.chanel.com/images//t_one///e_brightness:-3/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/chanel-19-handbag-black-shiny-lambskin-gold-tone-silver-tone-ruthenium-finish-metal-shiny-lambskin-gold-tone-silver-tone-ruthenium-finish-metal-packshot-default-as1160b0485294305-8855281532958.jpg",
+      "description": "hi",
+      "id": "15Sc9-S"
+    },
+    {
+      "name": "f",
+      "price": null,
+      "image": "f",
+      "description": "f",
+      "id": "k5PEpzD"
     }
   ]
 }
